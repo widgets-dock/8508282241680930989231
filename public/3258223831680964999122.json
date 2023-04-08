@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781850254899",
+    "project_id": "tap-tap-earn-rewards",
+    "storage_bucket": "tap-tap-earn-rewards.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781850254899:android:04176237d4d7c4a1a5cd46",
+        "android_client_info": {
+          "package_name": "com.udelmucepot.tptpernrwd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781850254899-bafpgesn3ar08ijd72mldigjo2khpcpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0N4zqLfnDGur5Bfk4EKG_UpRnTu0Wp4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781850254899-bafpgesn3ar08ijd72mldigjo2khpcpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
